@@ -1,0 +1,12 @@
+{
+  "name": "blockvot",
+  "displayName": "blockvot",
+  "expo": {
+    "name": "blockvot",
+    "slug": "blockvot",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
