@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "517163003964",
-    "firebase_url": "https://blockvot-6dfb0-default-rtdb.firebaseio.com",
-    "project_id": "blockvot-6dfb0",
-    "storage_bucket": "blockvot-6dfb0.appspot.com"
+    "project_number": "1013440650448",
+    "firebase_url": "https://votchain-default-rtdb.firebaseio.com",
+    "project_id": "votchain",
+    "storage_bucket": "votchain.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:517163003964:android:5cb32c618b8a48ed3a9339",
+        "mobilesdk_app_id": "1:1013440650448:android:63b67b1b6f04585b7912d5",
         "android_client_info": {
-          "package_name": "com.smartvot"
+          "package_name": "votchain.com.ph"
         }
       },
       "oauth_client": [
         {
-          "client_id": "517163003964-06vfn41laavu0459fur547d5av8qmjs2.apps.googleusercontent.com",
+          "client_id": "1013440650448-7inattr11k1lmaeajqgn28ijscr5a67m.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBNaB3QDQapsaNMQmD_5k93crYHjsl9xJA"
+          "current_key": "AIzaSyC2s6_5Tdx4tl2GvYA0irgCsll6b96ECmo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "517163003964-06vfn41laavu0459fur547d5av8qmjs2.apps.googleusercontent.com",
+              "client_id": "1013440650448-7inattr11k1lmaeajqgn28ijscr5a67m.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
